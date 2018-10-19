@@ -28,17 +28,17 @@
   ],
   "dependencies": {
     "shower-core": "^2.1.0",
-    "shower-material": "^2.1.2",
-    "shower-ribbon": "^3.1.2"
+    "shower-material": "^2.1.4",
+    "shower-ribbon": "^3.1.4"
   },
   "devDependencies": {
-    "browser-sync": "^2.24.5",
+    "browser-sync": "^2.26.3",
     "del": "^3.0.0",
     "gh-pages": "^1.2.0",
     "gulp": "^4.0.0",
-    "gulp-rename": "^1.2.2",
+    "gulp-rename": "^1.4.0",
     "gulp-replace": "^1.0.0",
-    "gulp-zip": "^4.0.0",
+    "gulp-zip": "^4.2.0",
     "merge-stream": "^1.0.0",
     "path-exists-cli": "^1.0.0",
     "shower-cli": "^0.1.4"
